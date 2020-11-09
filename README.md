@@ -1,13 +1,15 @@
 # Interactions-with-Ruby
 
-###### A simple program which interacts with user, programmed with Ruby language
-
 [![made-with-ruby](badge.png)](https://www.ruby-lang.org/)
 
+##### A simple program which interacts with user, programmed with Ruby language
+#
 A simple game using Python programming language, through Py-game library. It´s a very tiny app, but is a introdution for 
 2D games development with Python. The used library allows many possibilities, just like that:
 
 ![](screenshot.png)
+
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 ## Hoy to use?
 
