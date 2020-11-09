@@ -1,4 +1,4 @@
-# Interactions-with-Ruby [![made-with-ruby](badge.png)](https://www.ruby-lang.org/)
+# Interactions-with-Ruby <img src="badge.png">
 
 ##### A simple program which interacts with user, programmed with Ruby language
 
